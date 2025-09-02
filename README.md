@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/aryan-raj-077345298/))  
+- [LinkedIn](https://www.linkedin.com/in/aryan-raj-077345298/)  
 - 📧 aryanbanthu@gmail.com
 
 ---
