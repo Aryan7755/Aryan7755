@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aryan Raj  
 
-🎓 Computer Science student passionate about **web development** and **problem solving**.  
-🚀 Currently learning **backend development (Node.js + Express)** while improving **DSA skills**.  
+🎓 Computer Science student passionate about **Web Development** and **Problem Solving**.  
+🚀 Currently learning **Backend Development (Node.js + Express)** while improving **DSA skills**.  
 💡 I enjoy building clean, responsive projects that solve real-world problems.  
 
 ---
@@ -9,7 +9,7 @@
 ## 🔨 Projects
 - **[Portfolio Website](https://github.com/your-username/portfolio-website)** – Personal site with projects, about me, and contact info.  
 - **[Weather App](https://github.com/your-username/weather-app)** – Fetches live weather data using an API.  
-- **[To-Do List](https://github.com/your-username/todo-app)** – Simple task manager with localStorage.  
+- **[To-Do List](https://github.com/your-username/todo-app)** – Simple task manager with LocalStorage.  
 
 ---
 
@@ -23,9 +23,15 @@
 
 ---
 
+## 📊 GitHub Stats
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan7755&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan7755&layout=compact&theme=radical)  
+
+---
+
 ## 📫 Connect with Me  
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 📧 your.email@example.com  
+- [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/aryan-raj-077345298/))  
+- 📧 aryanbanthu@gmail.com
 
 ---
 
