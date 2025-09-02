@@ -7,9 +7,9 @@
 ---
 
 ## 🔨 Projects
-- **[Portfolio Website](https://github.com/your-username/portfolio-website)** – Personal site with projects, about me, and contact info.  
-- **[Weather App](https://github.com/your-username/weather-app)** – Fetches live weather data using an API.  
-- **[To-Do List](https://github.com/your-username/todo-app)** – Simple task manager with LocalStorage.  
+- **[Portfolio Website](https://github.com/Aryan7755/portfolio-website)** – Personal site with projects, about me, and contact info.  
+- **[Weather App](https://github.com/Aryan7755/weather-app)** – Fetches live weather data using an API.  
+- **[To-Do List](https://github.com/Aryan7755/todo-list)** – Simple task manager with LocalStorage.  
 
 ---
 
